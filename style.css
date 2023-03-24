@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(245, 234, 220);
+}
+.header_div{
+    font-family: 'Labrada', serif;
+    background-color: white;
+    top: 0;
+    margin-top: 0px;
+    position: fixed;
+}
+
+#startbtn{
+    font-family: 'Labrada', serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 100px;
+    letter-spacing: 3px;
+}
+
+.footer{
+    background-color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    font-size: medium;
+    line-height: 3;
+}
